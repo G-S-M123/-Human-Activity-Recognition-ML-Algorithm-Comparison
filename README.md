@@ -35,8 +35,9 @@ The aim is to analyze model performance across **Accuracy, Precision, Recall, F1
 ```
 ML_Comparison/
 │
-├── data/
-│   ├── harth.csv                 # HARTH dataset (or multiple CSVs)
+├── harth70/
+│   ├── .csv                 # HARTH dataset (or multiple CSVs)
+│   └── ...
 │
 ├── models/
 │   ├── logistic_regression.pkl
